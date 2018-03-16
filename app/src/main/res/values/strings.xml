@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MultiWindowSample</string>
+    <string name="title_split_screen">Split Screen</string>
+    <string name="message_split_screen">Long press menu key to put this activity into Split Screen mode</string>
+    <string name="title_free_form">Free Form</string>
+    <string name="title_picture_in_picture">Picture in Picture</string>
+    <string name="message_picture_in_picture">Click me to display in PIP</string>
+    <string name="message_free_form">Click me to start activity with free form</string>
+    <string name="title_activity_free_form">FreeFormActivity</string>
+</resources>
